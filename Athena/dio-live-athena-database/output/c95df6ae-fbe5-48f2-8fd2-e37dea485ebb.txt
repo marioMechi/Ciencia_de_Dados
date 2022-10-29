@@ -1,0 +1,1 @@
+FAILED: ParseException line 1:65 cannot recognize input near 'column_type1' ',' 'column_name2' in column type
